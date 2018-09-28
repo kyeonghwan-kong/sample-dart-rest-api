@@ -12,11 +12,11 @@ main() async {
 @ApiClass(version: 'v1')
 class World {
   @ApiMethod(method: 'GET', path: 'world/{x}/{y}')
-  Terrain getWorldInfo(String x, String y){
+  Terrain getWorldInfo(String x, String y) {
     return new Terrain()
-        ..name = "grass"
-        ..x = x
-        ..y = y;
+      ..name = "grass"
+      ..x = x
+      ..y = y;
   }
 }
 
