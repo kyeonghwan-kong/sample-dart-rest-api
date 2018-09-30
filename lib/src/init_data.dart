@@ -10,7 +10,7 @@ main() async {
   var collection = db.collection("world");
   var userCollection = db.collection("users");
 
-  List playground = new List();
+  List<Map<String, dynamic>> playground = new List();
   var _rng = new Random();
 
   for (var x = 0; x < 10; x++) {
