@@ -1,7 +1,3 @@
 # SampleRestAPI
 
-A web app that uses [AngularDart](https://webdev.dartlang.org/angular) and
-[AngularDart Components](https://webdev.dartlang.org/components).
-
-Created from templates made available by Stagehand under a BSD-style
-[license](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
+[[Dart + MongoDB] REST API 만들기 – Kyeonghwan Kong – Medium](https://medium.com/@khkong0928/dart-mongodb-rest-api-%EB%A7%8C%EB%93%A4%EA%B8%B0-c3b129dade84) 의 샘플코드
